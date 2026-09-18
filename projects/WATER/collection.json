@@ -21,7 +21,7 @@
             "rel": "via",
             "title": "EO4Society Link"},
         // The next link is a link to the themes specified in the themes field below. It is mandatory to have a link to all themes specified in the themes array
-        {"href": "../../themes/land/catalog.json",  #related theme of the project
+        {"href": "../../themes/Oceans/catalog.json",  #related theme of the project
             "rel": "related",
             "title": "Theme: Oceans",
             "type": "application/json"}
